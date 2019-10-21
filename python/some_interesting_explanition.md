@@ -4,6 +4,7 @@ If the function is named without parentheses. This means that only a reference t
 It’s possible to define functions inside other functions. Such functions are called *inner functions*.   
 Python also allows you to use functions as return values  
 '''
+
 def parent(num):
     def first_child():
         return "Hi, I am Emma"
