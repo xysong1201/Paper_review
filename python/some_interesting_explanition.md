@@ -1,3 +1,3 @@
 #### A function returns a value based on the given arguments
-In Python, functions can be passed around and used as arguments
-python 的function如果没有带（），则只有reference被引用，没有被执行。如果带（），则代表执行。
+In Python, functions can be passed around and used as arguments.  
+If the function is named without parentheses. This means that only a reference to the function is passed. The function is not executed. if the function is written with parentheses, it will be called as usual.
